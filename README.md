@@ -150,4 +150,5 @@ Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 © 2024 HEPIA ISC — Projet Rust : *THE CAMPER KILLER*
 
-<img src="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/3X/5/a/5a3c544d643962eb8af4db3489ef08ef1584d348.gif" width ="100" align=right>
+<img src="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/3X/5/a/5a3c544d643962eb8af4db3489ef08ef1584d348.gif" width ="100" align=left>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxlYzI0dHVxdHR3MmhrazV4M29lOHlyem9kNjh6bDFicmtheG5nYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4KhQo2MESJkc6QbS/giphy.gif" width ="100" align=right>
