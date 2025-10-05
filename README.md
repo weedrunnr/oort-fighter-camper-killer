@@ -98,8 +98,10 @@ if distance_to_target < EXPLOSION_RANGE {
 
 ## Démonstration
 
-**🎬 Vidéo détaillée :**
-[🎥 Voir la démo (camperKillerInAction.mp4)](media/camperKillerInAction.mp4)
+<p align="center"><b>🎥 Démonstration du vaisseau THE CAMPER KILLER</b></p>
+<div align="center">
+<video src="https://synloop.github.io/oort-fighter-camper-killer/camperKillerInAction.mp4" controls width="80%" muted playsinline poster="media/visual.gif"></video>
+</div>
 
 ---
 
