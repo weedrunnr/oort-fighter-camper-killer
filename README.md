@@ -1,5 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmRhZDdvajF6MzBleXFtbTRiYjZvMDU0NTY4NGQydThqOTR2ZHprNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jZN2tpC7XZUjVBs0SU/giphy.gif" width ="25"> THE CAMPER KILLER — Fighter Duel (Oort.rs)
-<img src="https://img.shields.io/badge/🏆-Reached%20semi-final-%23FFD700" alt="Reached semi-final" />
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆-Reached%20Semi--Final-%23FFD700" alt="Reached Semi-Final Badge" />
+</div>
 
 ![Visual Demo](media/visual.gif)
 
