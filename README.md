@@ -100,8 +100,14 @@ if distance_to_target < EXPLOSION_RANGE {
 
 <p align="center"><b>🎥 Démonstration du vaisseau THE CAMPER KILLER</b></p>
 <div align="center">
-<video src="https://synloop.github.io/oort-fighter-camper-killer/camperKillerInAction.mp4"></video>
+  <video controls width="80%" muted playsinline poster="media/visual.gif">
+    <source src="https://synloop.github.io/oort-fighter-camper-killer/camperKillerInAction.mp4" type="video/mp4" />
+    Votre navigateur ne prend pas en charge la lecture vidéo intégrée.
+  </video>
+  <br/>
+  <a href="https://synloop.github.io/oort-fighter-camper-killer/camperKillerInAction.mp4">▶️ Ouvrir la vidéo plein écran</a>
 </div>
+
 
 ---
 
