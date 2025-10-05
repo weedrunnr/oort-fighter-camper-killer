@@ -26,7 +26,7 @@ Notre vaisseau, **THE CAMPER KILLER**, a atteint la **demi-finale** du tournoi f
 
 * **Yassin EL HAKOUNI**
 * **Riad HYSENI**
-* **Navid ELMI**
+* **Navid E**
 
 > Groupe : *Oh Rust Is* (ISC 2e année – HEPIA)
 
@@ -57,7 +57,7 @@ Fichier : [`src/the_camper_killer.rs`](src/the_camper_killer.rs)
 
 ```rust
 /*
-*   Auteurs : "HYSENI Riad", "EL HAKOUNI Yassin" & El Magnifico "ELMI Navid"
+*   Auteurs : "HYSENI Riad", "EL HAKOUNI Yassin" & El Magnifico "E Navid"
 *   Notre vaisseau fighter : THE CAMPER KILLER
 *   DISCLAIMER: On n'utilise pas la radio par stratégie afin de ne pas se faire brouiller nos missiles
 *               A la place on utilise les radars sur les missiles
