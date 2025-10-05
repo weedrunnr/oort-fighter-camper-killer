@@ -5,7 +5,7 @@
 
 ![Visual Demo](media/visual.gif)
 
-![Rust](https://img.shields.io/badge/Rust-stable-orange)
+![Rust](https://img.shields.io/badge/Rust-stable-000?style=for-the-badge&logo=rust&logoColor=white)
 ![Tournament](https://img.shields.io/badge/Status-Demi--finale-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
