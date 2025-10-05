@@ -96,7 +96,7 @@ if distance_to_target < EXPLOSION_RANGE {
 
 ---
 
-## Démonstration
+## 🎬 Démonstration
 
 <p align="center">
 <a href="https://synloop.github.io/oort-fighter-camper-killer/demo.html" target="_blank">🎥 Ouvrir la page de démo</a>
@@ -149,3 +149,5 @@ Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 ---
 
 © 2024 HEPIA ISC — Projet Rust : *THE CAMPER KILLER*
+
+<img src="https://us1.discourse-cdn.com/flex019/uploads/rust_lang/original/3X/5/a/5a3c544d643962eb8af4db3489ef08ef1584d348.gif" width ="100" align=right>
