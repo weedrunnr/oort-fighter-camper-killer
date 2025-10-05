@@ -1,5 +1,5 @@
 /*
-*   Auteurs : "HYSENI Riad", "EL HAKOUNI Yassin" & El Magnifico "ELMI Navid"
+*   Auteurs : "HYSENI Riad", "EL HAKOUNI Yassin" & El Magnifico "E Navid"
 *   Notre vaisseau fighter : THE CAMPER KILLER
 *   DISCLAIMER: On n'utilise pas la radio par stratégie afin de ne pas se faire brouiller nos missiles
 *               A la place on utilise les radars sur les missiles
