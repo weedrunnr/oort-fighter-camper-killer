@@ -1,4 +1,5 @@
-# THE CAMPER KILLER — Fighter Duel (Oort.rs)
+# <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmRhZDdvajF6MzBleXFtbTRiYjZvMDU0NTY4NGQydThqOTR2ZHprNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jZN2tpC7XZUjVBs0SU/giphy.gif" width ="25"> THE CAMPER KILLER — Fighter Duel (Oort.rs)
+<img src="https://img.shields.io/badge/🏆-Reached%20semi-final-%23FFD700" alt="Reached semi-final" />
 
 ![Visual Demo](media/visual.gif)
 
@@ -15,7 +16,7 @@
 > IA de combat spatiale 2D développée en Rust pour la plateforme [oort.rs](https://oort.rs).
 > L'objectif : détruire le vaisseau adverse contrôlé par le code d'une autre équipe.
 
-Notre vaisseau, **THE CAMPER KILLER**, a atteint la **demi-finale** du tournoi face à une quinzaine d'équipes concurrentes.
+Notre vaisseau, **THE CAMPER KILLER**, a atteint la **demi-finale** du tournoi face à une quinzaine d'équipes concurrentes. 🔥
 
 ---
 
@@ -41,7 +42,7 @@ Les combats se déroulaient sur une grille 2D : le dernier vaisseau en vie gagna
 * Les tirs doivent être précis, calculés selon la **vitesse et position future** de l'adversaire.
 
 **Notre choix stratégique :**
-✔️ Pas de radio (pour éviter le brouillage)
+✔️ Pas de radio (pour éviter le brouillage adverse)
 ✔️ Radar étroit + balayage continu
 ✔️ Prédiction de tir épurée et constante
 ✔️ Barrage de missiles en approche continue
@@ -95,11 +96,19 @@ if distance_to_target < EXPLOSION_RANGE {
 
 ## Démonstration
 
-**Visualisation GIF :**
-![Demo GIF](media/visual.gif)
-
-**Vidéo détaillée :**
+**🎬 Vidéo détaillée :**
 [🎥 Voir la démo (camperKillerInAction.mp4)](media/camperKillerInAction.mp4)
+
+---
+
+## Tester le code par vous même
+
+Pour cela rendez-vous sur [oort.rs](https://oort.rs).
+En haut à droite au lieu de Welcome, rendez-vous sur "Tournament > Fighter Duel" puis collez le code dans la partie gauche "Editor (Player)".
+Si vous ne voyez pas la partie gauche, il suffit de cliquer sur le tout petit bouton tout en haut à droite pour déplier la section.
+Une fois le code collé, cliquez sur le bouton d'exécution de la simulation.
+
+Ensuite, il ne reste plus qu'à admirer le vaisseau violet ennemi se faire abattre !
 
 ---
 
@@ -113,8 +122,9 @@ Voir la présentation de notre code et de notre stratégie :
 
 ## 🏆 Résultats
 
-* Tournoi interne HEPIA (2024)
+* Tournoi interne HEPIA (2024) diffusé sur Twitch.
 * **Classement : Demi-finale** sur une quinzaine d'équipes.
+* **Classement mondial sur le site : 33èmes**.
 * **Note finale : 5.5 / 6** (code + présentation).
 
 ---
